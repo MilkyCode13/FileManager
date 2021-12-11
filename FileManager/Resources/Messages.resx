@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="MessageSplash" xml:space="preserve">
+        <value>Добро пожаловать в File Manager™! Эта утилита позволит вам совершать большое количество различных действий с файлами.
+Для вызова справки введите команду `help`.</value>
+    </data>
+    <data name="MessageManyAutoCompletionVariants" xml:space="preserve">
+        <value>
+Есть {0} вариантов автодополнения. Показать их все (Y/N)? </value>
+    </data>
+    <data name="ConsolePrompt" xml:space="preserve">
+        <value>
+[{0}]</value>
+    </data>
+    <data name="ErrorCommandNotFound" xml:space="preserve">
+        <value>{0}: команда не найдена.</value>
+    </data>
+    <data name="ErrorDirectoryNotFound" xml:space="preserve">
+        <value>Директория не найдена.</value>
+    </data>
+    <data name="ErrorFileNotFound" xml:space="preserve">
+        <value>Файл не найден: {0}.</value>
+    </data>
+    <data name="ErrorAccessDenied" xml:space="preserve">
+        <value>В доступе отказано: {0}.</value>
+    </data>
+    <data name="ErrorEncodingNotFound" xml:space="preserve">
+        <value>Кодировка не найдена: {0}.</value>
+    </data>
+    <data name="ErrorInvalidArgumentCount" xml:space="preserve">
+        <value>Неверное число параметров.</value>
+    </data>
+    <data name="ErrorGeneral" xml:space="preserve">
+        <value>Ошибка: {0}.</value>
+    </data>
+    <data name="MessagePagerStop" xml:space="preserve">
+        <value>[Пробел, чтобы показать следующую страницу, Q или Esc для выхода]</value>
+    </data>
+    <data name="MessageBinaryFile" xml:space="preserve">
+        <value>Похоже, что этот файл — бинарный (не текстовый). Вы уверены, что хотите его просмотреть (Y/N)? </value>
+    </data>
+    <data name="MessageRecursiveOperation" xml:space="preserve">
+        <value>Сейчас будет произведена рекурсивная операция, которая может занять значительное время (до нескольких минут!). Вы уверены, что хотите продолжить (Y/N)? </value>
+    </data>
+    <data name="MessageOverwriteFile" xml:space="preserve">
+        <value>Файл {0} уже существует. Вы уверены, что хотите перезаписать его (Y/N)? </value>
+    </data>
+    <data name="MessageDeleteFile" xml:space="preserve">
+        <value>Вы уверены, что хотите удалить файл {0} НАВСЕГДА (Y/N)? </value>
+    </data>
+    <data name="ErrorNeedRecursive" xml:space="preserve">
+        <value>Копировать директорию можно только рекурсивно (с опцией -r).</value>
+    </data>
+    <data name="ErrorInvalidOptions" xml:space="preserve">
+        <value>Неверные опции.</value>
+    </data>
+    <data name="ErrorDiffFirstLineNumber" xml:space="preserve">
+        <value>Номер строки в первом файле должен быть указан, только если строка не была добавлена.</value>
+    </data>
+    <data name="ErrorDiffSecondLineNumber" xml:space="preserve">
+        <value>Номер строки во втором файле должен быть указан, только если строка не была удалена.</value>
+    </data>
+    <data name="ErrorDiffInvalidChangeType" xml:space="preserve">
+        <value>Неверный тип изменения.</value>
+    </data>
+    <data name="ErrorInvalidHelpString" xml:space="preserve">
+        <value>Неизвестный раздел справки.</value>
+    </data>
+    <data name="ErrorDriveNotFound" xml:space="preserve">
+        <value>Диск не найден.</value>
+    </data>
+    <data name="MessageOperationCompletedSuccessfully" xml:space="preserve">
+        <value>Операция успешно завершена!</value>
+    </data>
+    <data name="MessageDirectoryEnumeration" xml:space="preserve">
+        <value>Обход {0}...</value>
+    </data>
+    <data name="ErrorInputOutput" xml:space="preserve">
+        <value>Ошибка ввода/вывода.</value>
+    </data>
+    <data name="ErrorTooManyLines" xml:space="preserve">
+        <value>Слишком много строк в файле.</value>
+    </data>
+    <data name="ErrorFileTooBig" xml:space="preserve">
+        <value>Файл слишком большой.</value>
+    </data>
+    <data name="MessagePleaseWait" xml:space="preserve">
+        <value>Операция может занять большое время. Пожалуйста, подождите...</value>
+    </data>
+</root>
